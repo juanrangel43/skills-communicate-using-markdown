@@ -4,3 +4,7 @@
 /*C++*/
 int* exPointer
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Or, don't.  Who cares? 
